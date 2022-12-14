@@ -4,3 +4,5 @@ these are the some improvements that need to be done
 - many database queries are done through very unnecesarily complicated means with a lot of duplication
 
 solution: create a DAO objecft which can be used to do queries in a better way
+
+- some functionality is duplicated in different lib files
